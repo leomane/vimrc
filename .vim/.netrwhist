@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/leo/Sandbox'
+let g:netrw_dirhist_2='/home/leo/Code'
+let g:netrw_dirhist_3='/home/leo/Code/lynda-d3'
+let g:netrw_dirhist_4='/home/leo/Code'
+let g:netrw_dirhist_5='/home/leo/Code/testing-stuff'
