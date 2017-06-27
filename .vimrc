@@ -42,9 +42,16 @@ set sessionoptions-=options
 "
 " SOLARIZED COLOR SCHEME
 "
-syntax enable
+" syntax enable
+" set background=dark
+" colorscheme solarized
+"
+" MANGO COLOR SCHEME
+"
+" syntax highlighting
 set background=dark
-colorscheme solarized
+syntax on
+color mango
 "
 " VIM AIRLINE
 " Enables the status line at the bottom of the screen
